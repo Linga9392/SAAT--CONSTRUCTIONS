@@ -1,0 +1,47 @@
+:root {
+  --font-display:
+    Spline Sans, Inter, ui-sans-serif, system-ui, sans-serif, Apple Color Emoji,
+    Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+
+  --font-mono:
+    ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    Liberation Mono, Courier New, monospace;
+
+  --font-rounded:
+    'SF Pro Rounded', 'Hiragino Maru Gothic ProN', Meiryo,
+    'MS PGothic', sans-serif;
+
+  --font-serif:
+    Georgia, 'Times New Roman', serif;
+
+  --color-primary: #C92A1D;
+  --color-primary-dark: #A82016;
+  --color-primary-light: #FDE8E5;
+
+  --color-background: #FAF7F3;
+  --color-surface: #FFFFFF;
+  --color-card: #FFF8F5;
+
+  --color-border: #F1D6D0;
+
+  --color-text: #2B2522;
+  --color-text-secondary: #6F625D;
+  --color-text-muted: #9A8E88;
+
+  --color-success: #2E7D32;
+  --color-success-light: #E8F5E9;
+
+  --color-warning: #EF8C00;
+  --color-warning-light: #FFF3E0;
+
+  --color-danger: #C62828;
+  --color-danger-light: #FFEBEE;
+
+  --color-info: #1565C0;
+  --color-info-light: #E3F2FD;
+
+  --radius-small: 10px;
+  --radius-medium: 14px;
+  --radius-large: 18px;
+  --radius-round: 999px;
+}
